@@ -1,0 +1,22 @@
+#layer2background {
+    background-color: rgb(235, 235, 235);
+    padding-top: 10px;
+}
+
+  
+  @media (min-width: 600px) {
+    
+  }
+
+  .footer {
+    /* Positioning */
+    position: absolute;
+    bottom: 0;
+  
+    /* Box-model */
+    width: 100%;
+    height: 60px;
+  
+    /* Visual */
+    background-color: rgb(196, 196, 196);
+  }
